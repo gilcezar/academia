@@ -1,0 +1,16 @@
+id_pessoa,id_tipo,nome,sobrenome,sexo,data,nascimento,mae,pai,cpf,rg,telefone,endereco,complemento,bairro
+1,1,"gil cezar",correa,m,"0000-00-00 00:00:00",NULL,"joana ",aristides,NULL,4445551,6291475749,"rua copacabana","qd 1 lt 32","p atalaia"
+2,1,andre,rocha,m,"0000-00-00 00:00:00","1970-01-01 00:00:00","nao sei","tambem nao sei",NULL,1112223,6299945522,"rua atras do aldeia","c sn","atras do aldeia"
+4,1,juliana,paes,f,"2012-09-12 08:55:21","0000-00-00 00:00:00","mãe da ju",NULL,NULL,NULL,NULL,"rua da barra",NULL,leblon
+6,1,João,"de Souza",m,"2012-09-12 09:49:05","0000-00-00 00:00:00","mãe da joão",NULL,NULL,NULL,NULL,"rua 2",NULL,Leblon
+7,1,Jose,"da silva",m,"2012-09-12 09:49:20","0000-00-00 00:00:00","mãe da joão",NULL,NULL,NULL,NULL,"rua 2",NULL,Leblon
+9,1,Joana,correa,f,"2012-09-12 10:08:57","2001-02-01 00:00:00",domingas,NULL,NULL,NULL,NULL,"rua copa",NULL,atalaia
+10,1,Samuel,Rocha,m,"2012-09-12 10:50:14","2011-03-05 00:00:00",maria,NULL,NULL,NULL,NULL,"rua h",NULL,itatiaia
+12,1,Tufão,"da novela",m,"2012-09-12 14:32:47","0000-00-00 00:00:00","benedita de paula",NULL,NULL,NULL,NULL,"av brasil",NULL,divino
+13,1,murilo,benício,m,"2012-09-12 14:33:29","0000-00-00 00:00:00","mão do murilo",NULL,NULL,NULL,NULL,"av brasil",NULL,divino
+14,1,"Lucio ",Mauro,m,"2012-09-13 11:31:03","2000-05-01 00:00:00","lucia maria mauro",NULL,,,6235855544,"rua comum","sem complemento","sem bairro"
+24,1,Giovana,Antoneli,f,"2012-09-14 09:35:55","1980-01-01 00:00:00","Maria antoneli","joão antoneli",01106846133,12345te,6235844444,"rua copacabana","sem complemento",leblon
+29,1,Paulo,"Roberto de Paula",m,"2012-09-14 09:50:24","0000-00-00 00:00:00","Maria de Paula",Pai,,,0,"rua monte cristo",,"monte cristo"
+30,1,Solange,"de Paula",f,"2012-09-14 09:51:01","0000-00-00 00:00:00","Maria Solange",Pai,,,0,"rua monte cristo",,"monte cristo"
+31,1,Adrielly,"da Silva",f,"2012-09-14 09:52:16","0000-00-00 00:00:00","Adria Help",Pai,,,0,"rua ","sm ",independecia
+48,1,Fernanda,"Paes Leme",f,"2012-09-14 17:19:41","0000-00-00 00:00:00","Maria Paes","Jõao Paes",01106846133,,0,"rua 234","qd. 1",university
